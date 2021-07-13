@@ -24,3 +24,21 @@ tsc index.ts
 ```
 
 typescript will be transferred to javascript and finally running.
+
+---
+
+## Data Type
+* boolean
+* number
+* string
+* array
+* tuple
+* enum
+* any
+* null && undefined
+* void
+* never
+
+data type has to be assigned when giving a variable
+
+

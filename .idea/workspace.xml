@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0335bf77-0d0d-468e-aa51-536be772428f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1vEUEvo9JGGN38RjoNdtVwZoV9K" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,7 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -61,12 +66,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626126633900</updated>
-      <workItem from="1626126634990" duration="2791000" />
+      <workItem from="1626126634990" duration="4417000" />
     </task>
+    <task id="LOCAL-00001" summary="first try in creating ts">
+      <created>1626133396734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626133396734</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first try in creating ts" />
+    <option name="LAST_COMMIT_MESSAGE" value="first try in creating ts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="405" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626132963980">
@@ -85,13 +107,26 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="1162" y="269" key="Github.UntrackedFilesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1626126689891" />
-    <state x="455" y="219" key="SettingsEditor" timestamp="1626132413681">
+    <state x="681" y="219" key="SettingsEditor" timestamp="1626134265606">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="455" y="219" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1626132413681" />
+    <state x="681" y="219" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1626134265606" />
+    <state x="940" y="297" key="Vcs.Push.Dialog.v2" timestamp="1626133398367">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="940" y="297" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1626133398367" />
     <state x="1005" y="251" width="670" height="676" key="search.everywhere.popup" timestamp="1626132515932">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="1005" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1626132515932" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="TypeScript_Learn" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TypeScript_Learn" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
